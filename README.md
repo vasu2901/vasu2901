@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming  
 - 🌱 I’m currently learning Pyhton
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vasuvats567@gmail.com
+- 📫 How to reach me vasu8479sharma@gmail.com
 
 <!---
 vasu2901/vasu2901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
