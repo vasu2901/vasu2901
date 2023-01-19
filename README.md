@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vasu2901
 - 👀 I’m interested in Programming  
-- 🌱 I’m currently learning Pyhton
+- 🌱 I’m currently working on skills like Full Stack Web Developement, Machine Learning, Python and C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vasu8479sharma@gmail.com
 
