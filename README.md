@@ -15,8 +15,13 @@ I am a passionate full-stack developer with experience building scalable web app
 
 ### 💼 Work Experience
 
+**Accuknox**
+🔹 *Software Developer* — Nov 2025 - Present 
+🔹 *Django Trainee* — May 2025 - Oct 2025  
+
+
 **Warewe Consultancy Pvt. Ltd.**  
-🔹 *Associate Developer* — Oct 2024 – Present  
+🔹 *Associate Developer* — Oct 2024 – May 2025  
 - Developed and deployed 3 active SaaS products using Next.js, Node.js, and GCP with 1K+ users  
 - Built and deployed **Geowe**, a Shopify geolocation redirect application  
 - Delivered a full-stack **Survey App** for an Australian client using Next.js, TypeScript, Prisma, PostgreSQL, and Tailwind  
@@ -55,13 +60,13 @@ I am a passionate full-stack developer with experience building scalable web app
 - **Machine Learning**, **Deep Learning**, **TensorFlow**, **Keras**, **Scikit-learn**
 
 #### 🗄️ Databases & Tools
-- **PostgreSQL**, **MongoDB**, **Prisma**, **Docker**
+- **PostgreSQL**, **MongoDB**, **Prisma**, **Supabase**, **Redis**
 
 #### ☁️ Cloud & DevOps
-- **AWS**, **GCP**, **AWS Lambda**, **Git**, **GitHub**
+- **AWS**, **Azure**, **Docker**, **Kubernetes**
 
 #### 🔧 Developer Tools
-- **VS Code**, **Figma**, **Jira**, **Vercel**, **Netlify**
+- **VS Code**, **Figma**, **Jira**, **Vercel**, **Netlify**, **Git**, **GitHub**
 
 #### 🤝 Soft Skills
 - **Communication**, **Team Management**, **Leadership**
