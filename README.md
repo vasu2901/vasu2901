@@ -17,8 +17,14 @@ I am a passionate full-stack developer with experience building scalable web app
 
 **Accuknox**
 🔹 *Software Developer* — Nov 2025 - Present 
-🔹 *Django Trainee* — May 2025 - Oct 2025  
+- Built Azure Organization Onboarding & Management feature enabling customers to onboard multiple cloud accounts and run automated security scans at scale.
+- Designed and implemented cloud resource tagging architecture, linking tags with security findings and vulnerabilities, improving asset traceability and risk analysis.
+- Developing a data leakage detection system to scan cloud assets (S3, RDS, etc.) for personal data exposure, strengthening compliance and security posture. 
 
+🔹 *Django Trainee* — May 2025 - Oct 2025  
+- Optimized backend APIs, reducing load times by 65% and improving overall system performance.
+- Developed and deployed a RabbitMQ-based logging and notification system, capturing 10K+ daily user activity events, which improved SaaS usage insights and reduced debugging time by 35%.
+- Implemented new parsers and widgets for scanning APIs and integrated them with the frontend for better visibility and usability.  
 
 **Warewe Consultancy Pvt. Ltd.**  
 🔹 *Associate Developer* — Oct 2024 – May 2025  
